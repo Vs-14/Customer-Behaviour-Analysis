@@ -1,7 +1,7 @@
 ## Objective
 The primary objective of Customer Behavior Analysis is to gain a comprehensive understanding of our customer base, their preferences, and interactions with our products/services. Specific goals include:
 - Identifying patterns in purchasing behavior.
-- Analyzing customer segmentation for targeted marketing.
+- Customer segmentation for targeted marketing.
 - Evaluating the impact of promotions and discounts.
 - Improving customer retention strategies.
 ## Execution Details
